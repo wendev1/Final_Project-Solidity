@@ -11,6 +11,6 @@ To simply mint and burn a token you should creat a contract to reflect the curre
 - Click the compile on the Remix IDE. 
 - After compiling, click deploy then the code will run and you can try to mint and burn a token.
 
-# Authors
+# Author
 Myrwen C. Dela Cruz
 3.1BSIT
