@@ -1,4 +1,5 @@
 # Final_Project-Solidity
+# Create My Own Token
 To simply mint and burn a token you should creat a contract to reflect the current supply.
 
 # Description
